@@ -1,0 +1,163 @@
+1.Anthracnose
+
+Anthracnose is a group of fungal diseases that affect a variety of plants, including trees, fruits, and vegetables.
+ The term "anthracnose" is used to describe a set of symptoms caused by different species of fungi belonging to the genus 
+Colletotrichum.These fungi are known to be opportunistic pathogens, meaning they can attack plants when conditions are favorable.
+
+2.Aster Yellow
+
+Aster yellows is a plant disease caused by a phytoplasma, which is a type of microscopic, cell wall-less bacterium.
+ It primarily affects members of the Asteraceae family, which includes a wide range of plants like asters, marigolds,
+ and various other ornamental and agricultural crops. 
+
+3.Azalea gall
+
+Azalea gall, also known as Exobasidium leaf and flower gall, is a fungal disease that 
+affects azalea plants, particularly those belonging to the Rhododendron genus. 
+The disease is caused by the fungus Exobasidium vaccinii
+
+4.black knot
+
+Black knot disease is a fungal disease that affects various species of fruit-bearing trees in the Prunus genus, 
+including cherry and plum trees. The primary causal agent of black knot disease is the fungus Apiosporina morbosa. 
+
+5.Black rot
+
+Black rot is a fungal disease that affects various cruciferous crops, including grapes, apples, and cruciferous vegetables like cabbage,
+ broccoli, and cauliflower. The disease is caused by the fungus Guignardia bidwellii (formerly known as Physalospora bidwellii).
+
+6.Canker
+
+Canker refers to a type of plant disease characterized by localized dead and sunken areas on stems, branches, or trunks. 
+Canker diseases are caused by various pathogens, including fungi and bacteria. 
+
+7.Canna virus
+
+Cannas are susceptible to Canna Yellow Mottle Virus, Bean Yellow Mosaic Virus, and Tomato Aspermy Virus. 
+Over years, affected cannas will lose vigor, become unsightly, and flower before plants are mature. 
+These viruses are spread by aphids and other sap-sucking insects. There is no treatment for viruses.
+
+
+8.Cucumber rot
+
+"Cucumber rot" is a broad term that could refer to several diseases or issues affecting cucumber plants, 
+each with its own causes, symptoms, and management strategies. 
+
+9.Cedar apple rust
+
+Cedar apple rust (Gymnosporangium juniperi-virginianae) is a fungal disease that affects apple and other fruit trees, 
+as well as certain species of junipers and other conifers. 
+It belongs to a group of diseases known as rusts. 
+
+10.Corn smut
+
+Corn smut, scientifically known as Ustilago maydis, is a fungal disease that affects corn (maize) plants. Unlike many plant diseases
+ that cause harm to crops, corn smut is considered a delicacy in some culinary traditions, particularly in Mexican cuisine.
+
+11.Downy mildew
+
+Downy mildew refers to a group of fungal-like microorganisms that can infect a variety of plants, causing significant damage to crops. 
+The term "downy mildew" is often used to describe diseases caused by specific pathogens belonging to the oomycetes group.
+These pathogens are not true fungi but share some similarities in terms of their ecological niche and the diseases they cause
+
+12.Dutch elm disease
+
+Dutch elm disease (DED) is a devastating fungal disease that affects elm trees. It is caused by the fungus Ophiostoma novo-ulmi, as well as the earlier introduced strain,
+Ophiostoma ulmi. Dutch elm disease has had significant ecological and aesthetic impacts on elm populations worldwide.
+
+13.early blight
+
+
+Early blight is a common fungal disease that affects plants in the Solanaceae family, including tomatoes and potatoes. 
+The causal agent is the fungus Alternaria solani. Early blight can lead to significant losses in crop yield if not properly managed
+
+14.Ergot
+
+Ergot is a fungal disease caused by the fungus Claviceps purpurea. This pathogen primarily affects cereal crops, particularly rye, but it can also infect other grasses, including wheat, barley, and oats. 
+The fungus produces toxic compounds known as alkaloids, which can have serious consequences for both animal and human health.
+
+15.Erwinia
+Erwinia refers to a genus of bacteria that includes several species known for their impact on plants. Some Erwinia species are plant pathogens and are responsible for causing diseases in a variety of crops. 
+
+16.Fire Blight
+
+Fire blight is a devastating bacterial disease that primarily affects plants in the Rosaceae family. 
+The disease is caused by the bacterium Erwinia amylovora. It is especially known for its destructive impact on fruit trees, including apple and pear trees.
+
+17.Fusarium wilt
+
+Fusarium wilt is a vascular disease caused by various species of the soil-borne fungus Fusarium. This disease affects a wide range of plants, including many economically important crops. 
+Fusarium wilt is known for its ability to cause wilting, yellowing, and ultimately the death of infected plants. 
+
+18.Gall Rust
+
+
+Gall rust, also known as cedar-apple rust, is a plant disease caused by the fungus Gymnosporangium juniperi-virginianae.
+ This disease primarily affects plants in the Rosaceae family, including apple and crabapple trees. 
+The complex life cycle of the fungus involves two host plants – members of the Rosaceae family and certain species of juniper (cedar) trees.
+
+19.Grey Mold
+
+Grey mold, also known as gray mold, is a common and destructive fungal disease caused by the fungus Botrytis cinerea.
+This pathogen has a broad host range, affecting various plants and crops, both in the field and in storage.
+Grey mold is known for its ability to cause rapid decay of plant tissues, especially under cool and humid conditions
+
+20.Late Blight
+
+Late blight, caused by the oomycete pathogen Phytophthora infestans, is a devastating plant disease that primarily affects members of the Solanaceae family, especially potatoes and tomatoes.
+It is one of the most notorious plant diseases and has historical significance, as it played a major role in the Irish Potato Famine in the mid-19th century.
+
+21.Leaf Scorch
+
+Leaf scorch is a physiological disorder affecting plants, where the edges of the leaves or the entire leaf turns brown, often giving the appearance of being "burned." 
+This condition is typically a result of environmental stress factors that disrupt the plant's water balance.
+
+22.Leaf Spot
+
+Leaf spot is a common plant disease characterized by the presence of distinct lesions or spots on the leaves. 
+These spots can vary in size, color, and shape depending on the specific pathogen causing the infection.
+ Leaf spot diseases are typically caused by various fungi, bacteria, or sometimes by certain environmental conditions.
+
+23.Mosiac Virus
+
+The term "mosaic virus" refers to a group of plant viruses that cause a characteristic mosaic-like pattern of light and dark green or yellow discoloration on the leaves of infected plants. 
+These viruses are widespread and can affect a wide range of crops, ornamental plants, and weeds. 
+
+24.Panama
+
+Panama disease is a devastating plant disease caused by the soil-borne fungus Fusarium oxysporum f. sp. cubense (Foc). 
+The primary target of this fungus is the banana plant, particularly the widely cultivated Cavendish banana variety.
+The disease has had a profound impact on the banana industry and poses a significant threat to global banana production.
+
+25.Peach leaf curl
+
+Peach leaf curl is a fungal disease caused by Taphrina deformans. This pathogen specifically targets peach trees (Prunus persica) and can also affect other stone fruit trees,
+such as nectarines and almonds. Peach leaf curl is prevalent in regions with cool, wet spring conditions, and it can cause significant damage to fruit crops if not effectively managed.
+
+26.Phytoplasma
+
+Phytoplasmas are microscopic, cell-wall-less bacteria that infect plants and cause diseases collectively known as phytoplasma diseases. They are a type of mollicute, a group of bacteria that lack a cell wall and have a simplified cellular structure.
+Phytoplasmas are primarily transmitted by insect vectors, such as leafhoppers, planthoppers, and psyllids.
+
+27.Potato Scab
+
+Potato scab is a common plant disease caused by several species of bacteria belonging to the genus Streptomyces, with Streptomyces scabies being the primary culprit. The disease affects potatoes and can result in cosmetic damage to tubers, reducing their market value. 
+Although potato scab does not usually cause significant yield losses, it can affect the appearance and marketability of the crop.
+
+28.Powdery mildew
+
+Powdery mildew is a common fungal disease that affects a wide range of plants, including ornamental plants, vegetables, and fruit crops.
+It is caused by various species of fungi belonging to the genera Erysiphe, Podosphaera, and Golovinomyces. The disease is characterized by the presence of a powdery, white to grayish fungal growth on the surfaces of leaves, stems, and sometimes flowers.
+
+29.Psorosis
+
+Psorosis is a citrus disease caused by the Citrus psorosis virus (CPsV), which is a member of the Ophiovirus genus. 
+Psorosis affects various citrus species and can result in economic losses due to reduced fruit quality, yield, and tree longevity. 
+The disease is primarily transmitted through grafting infected plant material onto healthy citrus trees.
+
+30.Rust Fungus
+
+
+Rust fungi are a group of plant pathogens belonging to the phylum Basidiomycota, and they are known for causing rust diseases in a wide variety of plants. 
+These fungi get their name from the characteristic rusty-brown spore masses produced on the infected plant tissues. 
+Rust diseases are significant concerns in agriculture, horticulture, and forestry, as they can lead to yield losses and reduce the quality of affected crops.
